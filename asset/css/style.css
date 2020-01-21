@@ -1,0 +1,33 @@
+#screen2
+{
+    display: none;
+}
+.linkTo {
+    cursor: pointer;
+}
+.linkTo:hover {
+    color: blue;
+}
+.article {
+    display: none;
+}
+.titreListe
+{
+    font-weight: bold;
+}
+.footer
+{
+    height: 50px;
+ 
+    background-color: lightgray;
+}
+.jumbotron
+{
+    background-color: #11af22;
+}
+
+
+.titreArticle
+{
+    color: white;
+}
